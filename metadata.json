@@ -1,0 +1,8 @@
+{
+  "name": "BangaPrep",
+  "description": "West Bengal government exam preparation Android app with unlimited daily subject and chapter-wise MCQs, daily chapter tests, and detailed answer explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
